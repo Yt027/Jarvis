@@ -1,0 +1,5 @@
+python-dotenv
+google-genai
+elevenlabs
+sounddevice
+soundfile
